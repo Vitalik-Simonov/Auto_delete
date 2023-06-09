@@ -1,6 +1,6 @@
 import os
 import win10toast
-import time
+
 
 toast = win10toast.ToastNotifier()
 # toast.show_toast(title='Уведомление от чистильщика', msg='через 5 минут очистка', duration=7)
