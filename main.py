@@ -39,3 +39,4 @@ while os.listdir(r'C:\Users\a320m\Desktop\only now') != []:
         pass
 
 a = os.listdir(r'C:\Users\a320m\Desktop\only now')
+# not
